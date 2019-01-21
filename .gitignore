@@ -61,4 +61,4 @@ typings/
 .next
 
 # ds_store
-.DS_Store
+*.DS_Store
