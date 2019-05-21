@@ -1,2 +1,2 @@
 # josh-simple-node
-### a basic node server example
+### a basic node server
