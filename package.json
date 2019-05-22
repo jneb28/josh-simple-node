@@ -1,0 +1,19 @@
+{
+  "name": "simple-http",
+  "version": "1.0.0",
+  "description": "a simple http server using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joshua n.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jneb28/josh-simple-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jneb28/josh-simple-node/issues"
+  },
+  "homepage": "https://github.com/jneb28/josh-simple-node#readme"
+}
